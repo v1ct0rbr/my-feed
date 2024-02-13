@@ -1,4 +1,11 @@
-# React + TypeScript + Vite
+
+# My Feed
+
+Protótipo de app para feed de mensagens (estilo Twitter)
+
+
+# Documentação
+## Criado com React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -28,4 +35,10 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-# my-feed
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/v1ct0rbr/my-feed/blob/main/public/imagens_app/tela01.png?raw=true)
+
+![App Screenshot](https://github.com/v1ct0rbr/my-feed/blob/main/public/imagens_app/tela02.png?raw=true)
